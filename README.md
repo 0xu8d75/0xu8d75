@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xu8d75
-- 👀 I’m interested in java tcp
+- 👀 I’m interested in java tcp mysql
 - 🌱 I’m currently learning ai
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me robrudenagf68@gmail.com
